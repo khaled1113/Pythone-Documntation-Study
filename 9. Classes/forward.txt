@@ -1,0 +1,18 @@
+as my last knowledge classes should have objects and functions 
+and also classes could have methods to modify it's state ???
+
+
+Goals
+-understand the meaning of classes
+-understand the meaning of objects
+-understand the meaning of methods
+-understand the meaning of scopes 
+-understnad the meaning of namespaces
+-add them to functions 
+
+also python have class interherance mechanisim
+
+
+*********************the definition of namespaces***************************
+A namespaces is a mapping from names to objects
+
